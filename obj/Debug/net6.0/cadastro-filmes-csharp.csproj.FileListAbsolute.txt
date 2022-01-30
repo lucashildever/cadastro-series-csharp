@@ -1,0 +1,15 @@
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\obj\Debug\net6.0\cadastro-filmes-csharp.csproj.AssemblyReference.cache
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\obj\Debug\net6.0\cadastro-filmes-csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\obj\Debug\net6.0\cadastro-filmes-csharp.AssemblyInfoInputs.cache
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\obj\Debug\net6.0\cadastro-filmes-csharp.AssemblyInfo.cs
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\obj\Debug\net6.0\cadastro-filmes-csharp.csproj.CoreCompileInputs.cache
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\bin\Debug\net6.0\cadastro-filmes-csharp.exe
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\bin\Debug\net6.0\cadastro-filmes-csharp.deps.json
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\bin\Debug\net6.0\cadastro-filmes-csharp.runtimeconfig.json
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\bin\Debug\net6.0\cadastro-filmes-csharp.dll
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\bin\Debug\net6.0\ref\cadastro-filmes-csharp.dll
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\bin\Debug\net6.0\cadastro-filmes-csharp.pdb
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\obj\Debug\net6.0\cadastro-filmes-csharp.dll
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\obj\Debug\net6.0\ref\cadastro-filmes-csharp.dll
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\obj\Debug\net6.0\cadastro-filmes-csharp.pdb
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-filmes-csharp\obj\Debug\net6.0\cadastro-filmes-csharp.genruntimeconfig.cache

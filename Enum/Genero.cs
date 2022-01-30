@@ -1,4 +1,4 @@
-namespace cadastro_filmes_csharp
+namespace DIO.Series
 {
 	public enum Genero
 	{

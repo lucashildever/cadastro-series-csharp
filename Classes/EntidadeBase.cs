@@ -1,7 +1,8 @@
-namespace cadastro_filmes_csharp
+namespace DIO.Series
 {
     public abstract class EntidadeBase
     {
         public int Id { get; protected set; }
+
     }
 }
