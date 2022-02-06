@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xTdgcyNGzq3FMMWOmD77dodmt9GkrHYcWyzEReZaOP/plBEuuj9YZS85B3ORwO0KbqZFys/gTXoSfxDe6lp6rw==",
+  "dgSpecHash": "HvLtsWzlnWBiuFX1RYU9WVqWEBNTbhsDnraVRALsSCFfAjBKvUioPaoEwxFHoCrGJQVsvkDD7QrA/Osc8z6lsw==",
   "success": true,
-  "projectFilePath": "E:\\MeusProjetosDev\\projetos_bootcaps\\series-cs\\dio-dotnet-poo-lab-2-master\\DIO.Series.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\MeusProjetosDev\\projetos_bootcaps\\cadastro-series-csharp\\cadastro-series-csharp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

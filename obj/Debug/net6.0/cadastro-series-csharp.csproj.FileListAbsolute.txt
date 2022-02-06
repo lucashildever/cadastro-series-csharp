@@ -1,0 +1,15 @@
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\bin\Debug\net6.0\cadastro-series-csharp.exe
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\bin\Debug\net6.0\cadastro-series-csharp.deps.json
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\bin\Debug\net6.0\cadastro-series-csharp.runtimeconfig.json
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\bin\Debug\net6.0\cadastro-series-csharp.dll
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\bin\Debug\net6.0\ref\cadastro-series-csharp.dll
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\bin\Debug\net6.0\cadastro-series-csharp.pdb
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\obj\Debug\net6.0\cadastro-series-csharp.csproj.AssemblyReference.cache
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\obj\Debug\net6.0\cadastro-series-csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\obj\Debug\net6.0\cadastro-series-csharp.AssemblyInfoInputs.cache
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\obj\Debug\net6.0\cadastro-series-csharp.AssemblyInfo.cs
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\obj\Debug\net6.0\cadastro-series-csharp.csproj.CoreCompileInputs.cache
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\obj\Debug\net6.0\cadastro-series-csharp.dll
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\obj\Debug\net6.0\ref\cadastro-series-csharp.dll
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\obj\Debug\net6.0\cadastro-series-csharp.pdb
+E:\MeusProjetosDev\projetos_bootcaps\cadastro-series-csharp\obj\Debug\net6.0\cadastro-series-csharp.genruntimeconfig.cache
