@@ -1,2 +1,4 @@
-## App simples de cadastro de séries em C#
-## Simple app for tv shows registration in C#
+# (CRUD) Cadastro De Séries
+
+<img style="width: 60%" src="img/project3.png" alt="project preview">
+
